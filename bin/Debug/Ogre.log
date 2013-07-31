@@ -1,0 +1,51 @@
+17:51:01: Creating resource group General
+17:51:01: Creating resource group Internal
+17:51:01: Creating resource group Autodetect
+17:51:02: Registering ResourceManager for type Material
+17:51:02: Registering ResourceManager for type Mesh
+17:51:02: Registering ResourceManager for type Skeleton
+17:51:02: MovableObjectFactory for type 'ParticleSystem' registered.
+17:51:02: Loading library OgrePlatform.dll
+17:51:02: OverlayElementFactory for type Panel registered.
+17:51:02: OverlayElementFactory for type BorderPanel registered.
+17:51:02: OverlayElementFactory for type TextArea registered.
+17:51:02: Registering ResourceManager for type Font
+17:51:02: ArchiveFactory for archive type FileSystem registered.
+17:51:02: ArchiveFactory for archive type Zip registered.
+17:51:02: DevIL version: Developer's Image Library (DevIL) 1.6.8pre Sep 13 2006
+17:51:02: DevIL image formats: bmp dib cut dcx dds gif hdr ico cur jpg jpe jpeg lif mdl mng jng pcx pic pix png pbm pgm pnm ppm psd pdd psp pxr sgi bw rgb rgba tga vda icb vst tif tiff wal xpm raw 
+17:51:02: Registering ResourceManager for type HighLevelGpuProgram
+17:51:02: Registering ResourceManager for type Compositor
+17:51:02: MovableObjectFactory for type 'Entity' registered.
+17:51:02: MovableObjectFactory for type 'Light' registered.
+17:51:02: MovableObjectFactory for type 'BillboardSet' registered.
+17:51:02: MovableObjectFactory for type 'ManualObject' registered.
+17:51:02: MovableObjectFactory for type 'BillboardChain' registered.
+17:51:02: MovableObjectFactory for type 'RibbonTrail' registered.
+17:51:02: An exception has been thrown!
+
+-----------------------------------
+Details:
+-----------------------------------
+Error #: 8
+Function: ConfigFile::load
+Description: 'plugins.cfg' file not found!. 
+File: ..\src\OgreConfigFile.cpp
+Line: 80
+Stack unwinding: <<beginning of stack>>
+17:51:02: plugins.cfg not found, automatic plugin loading disabled.
+17:51:02: *-*-* OGRE Initialising
+17:51:02: *-*-* Version 1.2.3 (Dagon)
+17:51:02: An exception has been thrown!
+
+-----------------------------------
+Details:
+-----------------------------------
+Error #: 8
+Function: ConfigFile::load
+Description: 'resources.cfg' file not found!. 
+File: ..\src\OgreConfigFile.cpp
+Line: 80
+Stack unwinding: <<beginning of stack>>
+17:51:02: Termination handler: uncaught exception!
+17:51:02: *-*-* OGRE Shutdown

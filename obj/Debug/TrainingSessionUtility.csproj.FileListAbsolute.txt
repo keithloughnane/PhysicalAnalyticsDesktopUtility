@@ -1,0 +1,38 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.exe
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.pdb
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Form1.resources
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.csproj.GenerateResource.Cache
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+L:\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.exe
+L:\TrainingSessionUtility\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.pdb
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\ResolveAssemblyReference.cache
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Form1.resources
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Properties.Resources.resources
+L:\TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+C:\Documents and Settings\user\Desktop\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+G:\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+G:\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+C:\Users\Mal\Desktop\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+C:\Users\Mal\Desktop\Bak_TrainingSessionUtility\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.exe
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Debug\TrainingSessionUtility.pdb
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\ResolveAssemblyReference.cache
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Form1.resources
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.Properties.Resources.resources
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.csproj.GenerateResource.Cache
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.exe
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Debug\TrainingSessionUtility.pdb

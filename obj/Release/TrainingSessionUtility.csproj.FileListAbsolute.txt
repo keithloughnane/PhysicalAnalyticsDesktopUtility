@@ -1,0 +1,48 @@
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.exe
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.pdb
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\ResolveAssemblyReference.cache
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Form1.resources
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Properties.Resources.resources
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.csproj.GenerateResource.Cache
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
+M:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SynchForm.resources
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.exe
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.pdb
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Form1.resources
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Properties.Resources.resources
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SynchForm.resources
+\\vmware-host\Shared Folders\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SynchForm.resources
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.exe
+C:\Documents and Settings\Administrator\Desktop\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.pdb
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.exe
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\bin\Release\TrainingSessionUtility.pdb
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\ResolveAssemblyReference.cache
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Form1.resources
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Properties.Resources.resources
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SynchForm.resources
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.csproj.GenerateResource.Cache
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+E:\PROJECTS\TrainingSessionUtility_prime\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
+Z:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+Z:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\ResolveAssemblyReference.cache
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Form1.resources
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.Properties.Resources.resources
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SyncConnection.resources
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.SynchForm.resources
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.csproj.GenerateResource.Cache
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\bin\Release\TrainingSessionUtility.exe
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\bin\Release\TrainingSessionUtility.pdb
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.exe
+M:\PROJECTS\Physical Analytics\Physical Analytics PC V0_1\TrainingSessionUtility\obj\Release\TrainingSessionUtility.pdb
